@@ -1,0 +1,35 @@
+#link-glowna {
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+}
+
+a:link, a:visited {
+  color: white;
+  text-decoration:none;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+	text-align:center;
+}
+
+p {
+	text-align:justify;
+	max-width:600px;
+}
+
+#textbox {
+	margin:auto
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
